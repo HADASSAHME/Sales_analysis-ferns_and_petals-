@@ -33,3 +33,8 @@
 - Data Extraction and Loading: this involed the use of power query to extract, transform(also included some form of cleaning) the data and also load it back into excel for further analysis.here, I used “joins” to combine the order and product column to  get the cumulative price.
 - Data Modelling: with the use of data modeling, I established a relationship between orders, product and customers worksheet for easy analysis.
 - Data Loading; using the load function , i loaded the extracted data back to excel for further analysis with the use of Pivot Tables.
+
+## RESULTS
+
+
+## REFRENCES 
