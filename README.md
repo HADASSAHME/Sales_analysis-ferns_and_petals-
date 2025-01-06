@@ -1,4 +1,4 @@
-# SALES ANALYSIS (PWETTY_AND_1STOP_STORE)
+# SALES ANALYSIS
 ## PROJECT OVERVIEW
   The dataset contains details about the product, orders,customer_id's and relevant data.
 
